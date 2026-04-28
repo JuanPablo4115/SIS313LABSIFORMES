@@ -793,7 +793,7 @@ ssh root@192.168.30.2
 
 ---
 
-## 10. Conclusiones
+## 9. Conclusiones
 
 ---
 
